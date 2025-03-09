@@ -1,4 +1,4 @@
-Got it! Here's a refined version that includes both **sentiment analysis** and **topic modeling**:  
+
 
 ---
 
@@ -29,7 +29,4 @@ This repository explores **Natural Language Processing (NLP)** techniques applie
 
 This project serves as a **comprehensive study of NLP applications**, covering both **supervised learning (sentiment analysis)** and **unsupervised learning (topic modeling for crime-related news analysis)**. 🚀  
 
----
-
-Let me know if you need any refinements!
 
