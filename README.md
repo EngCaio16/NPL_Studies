@@ -25,7 +25,7 @@ This repository explores **Natural Language Processing (NLP)** techniques applie
   - Civil rights violations  
   - Organized crime and violent offenses  
   - Environmental regulations  
-- **Visualization:** Word clouds and topic distributions to interpret model results.  
+- **Visualization:** Topic distributions to interpret model results.  
 
 This project serves as a **comprehensive study of NLP applications**, covering both **supervised learning (sentiment analysis)** and **unsupervised learning (topic modeling for crime-related news analysis)**. 🚀  
 
